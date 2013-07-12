@@ -24,7 +24,7 @@ class Hours{
 }
 $days['monday'] = $_POST['monday'];
 $days['tuesday'] = $_POST['tuesday'];
-$days['wednesday'] = $_POST['monday'];
+$days['wednesday'] = $_POST['wednesday'];
 $days['thursday'] = $_POST['thursday'];
 $days['friday'] = $_POST['friday'];
 $days['saturday'] = $_POST['saturday'];
