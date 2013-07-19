@@ -39,3 +39,4 @@ nbproject
 .idea
 node_modules
 dist
+tests
